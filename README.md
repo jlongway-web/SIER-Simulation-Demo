@@ -11,4 +11,4 @@ Data Aggregation: Uses pandas to process large amounts of simulation data and ca
 Visualization: Generates time-series plots using matplotlib to show the "flattening of the curve" based on immunity variables.
 
 
-<img src="images/SEIR-Graph.png" width="200">
+<img src="images/SEIR-Graph.png" width="500">
