@@ -1,5 +1,5 @@
 Title: Stochastic Flu Outbreak Simulator
-Description: A Python-based Monte Carlo simulation that models the spread of a virus through a population of 60 individuals over a 60-day period.
+Description: A Python-based Monte Carlo simulation that models the spread of a virus through a population of 60 individuals over a 60-day period using the SEIR (Susceptible-Exposed-Infectious-Recovered) model.
 
 Key Features
 Stochastic Modeling: Uses Binomial distributions to simulate the probability of infection and immunity.
