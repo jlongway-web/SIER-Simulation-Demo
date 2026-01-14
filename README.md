@@ -1,14 +1,14 @@
-Title: Stochastic Flu Outbreak Simulator
-Description: A Python-based Monte Carlo simulation that models the spread of a virus through a population of 60 individuals over a 60-day period using the SEIR (Susceptible-Exposed-Infectious-Recovered) model.
+## Stochastic Flu Outbreak Simulator
+A Python-based Monte Carlo simulation that models the spread of a virus through a population of 60 individuals over a 60-day period using the SEIR (Susceptible-Exposed-Infectious-Recovered) model.
 
-Key Features
-Probabilistic Modeling: Uses numpy.random.binomial to simulate the chance of infection and immunity.
+### Key Features
+* Probabilistic Modeling: Uses numpy.random.binomial to simulate the chance of infection and immunity.
 
-Infection Lifecycle: Models a 4-day progression cycle (1 day incubation, 3 days contagious).
+* Infection Lifecycle: Models a 4-day progression cycle (1 day incubation, 3 days contagious).
 
-Data Aggregation: Uses pandas to process large amounts of simulation data and calculate mean trends.
+* Data Aggregation: Uses pandas to process large amounts of simulation data and calculate mean trends.
 
-Visualization: Generates time-series plots using matplotlib to show the "flattening of the curve" based on immunity variables.
+* Visualization: Generates time-series plots using matplotlib to show the "flattening of the curve" based on immunity variables.
 
 
 <img src="images/SEIR-Graph.png" width="600">
